@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fredoka&family=Kanit:wght@500&family=Trirong:wght@200&display=swap');
+
+body{
+    background-color: #aa84a3;
+}
+#titulo{
+    font-family: 'Trirong', serif;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 32pt;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.copyrightFooter{
+    background-color: #292b2e;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    padding: 10px 0;
+}
+.footer-text{
+    margin: 0;
+    font-size: 18px;
+}
